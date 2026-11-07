@@ -1,8 +1,0 @@
-/UserBehavior.csv
-/powerbi_data.csv
-*.pbix
-/.idea/
-.ipynb_checkpoints/
-__pycache__/
-/.venv/
-/.env

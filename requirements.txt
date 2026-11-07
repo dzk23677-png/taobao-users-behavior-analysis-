@@ -1,4 +1,0 @@
-matplotlib
-notebook
-pandas
-tzdata
